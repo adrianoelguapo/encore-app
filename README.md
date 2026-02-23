@@ -53,3 +53,8 @@ Para instalar y ejecutar el proyecto móvil en tu entorno local, debes seguir es
 
 ### Vista del Panel de Admin
 ![Vista Gestión Admin](docsimages/8.jpeg)
+
+## Diagramas de casos de uso
+En este caso están representados los diagramas de casos de uso del registro de un usuario y de la reserva para un concierto.
+
+![Diagrama de casos de uso del registro](docsimages/9.jpg)
